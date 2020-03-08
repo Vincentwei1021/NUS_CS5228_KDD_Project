@@ -1,4 +1,5 @@
 # NUS_CS5228_Project  
+This is the source code for CS5228 project (AY 2019/2020 Semester 2)  
 ## Task  
 https://www.kaggle.com/c/cs5228
 ## Contributor  

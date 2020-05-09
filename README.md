@@ -3,7 +3,7 @@ This is the source code for CS5228 project (AY 2019/2020 Semester 2)
 ## Folder Structure
 - src  
 	Solution(jupyter notebook)
-- res  
+- sub  
 	Final Kaggle submissions
 - doc  
 	Kaggle competition report 

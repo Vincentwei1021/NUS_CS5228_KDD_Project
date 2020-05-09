@@ -9,7 +9,7 @@ Winning 1st place at NUS CS5228 in-class Kaggle competition 2020!
 - doc  
 	Kaggle competition report 
 ## [Task](https://www.kaggle.com/c/cs5228)
-https://www.kaggle.com/c/cs5228
+https://www.kaggle.com/c/cs5228  
 Kaggle Team: Exceed50k
 ## Contributor  
 [XiangPan](https://github.com/Xiang-Pan)  

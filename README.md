@@ -1,11 +1,11 @@
 # NUS_CS5228_Project  
 This is the source code for CS5228 project (AY 2019/2020 Semester 2) 
 ## Folder Structure
-- src
+- src  
 	Solution(jupyter notebook)
-- res
+- res  
 	Final Kaggle submissions
-- doc
+- doc  
 	Kaggle competition report 
 ## [Task](https://www.kaggle.com/c/cs5228)
 https://www.kaggle.com/c/cs5228
